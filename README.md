@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David a.k.a @nietdavid
+- 👋 Hi, I’m David
 - 👀 I’m interested in app and web development
 - 🌱 I’m currently learning app and web development
 - 💞️ I’m looking to collaborate on app and web developmet projects
