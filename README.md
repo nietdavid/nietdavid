@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David
-- 🌱 I’m currently learning app and web development
+- 🌱 I’m currently doing a master on Data Engineering
 - 📫 How to reach me: send me an email, davidparratobon@gmail.com
-- ⚡ Fun fact: I was in the French foreign legion for almost 10 years!
+- ⚡ Fun fact: I was in the French foreign legion for 10 years!
 
 <!---
 nietdavid/nietdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
