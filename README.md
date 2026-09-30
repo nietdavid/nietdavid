@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 🌱 I’m currently doing a master on Data Engineering
+- 🌱 I’m currently doing a master(2nd year!) on Data Engineering
 - 📫 How to reach me: send me an email, davidparratobon@gmail.com
 - ⚡ Fun fact: I was in the French foreign legion for 10 years!
 
